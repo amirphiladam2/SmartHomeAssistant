@@ -1,4 +1,4 @@
-int greenLight = 2;
+int greenLight = 0;
 int blueLight = 3;
 int redLight = 4;
 int yellowLight = 5;
